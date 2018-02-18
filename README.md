@@ -12,8 +12,10 @@ This is a simple React template using babel and webpack. Every time I wanted to 
 ```
 ### TO-DO
 
-Add better config for webpack
-Add better documentation 
-Configure some styling options out of the box
+```
+> Add better config for webpack
+> Add better documentation 
+> Configure some styling options out of the box
+```
 
 ### Have fun and enjoy!
