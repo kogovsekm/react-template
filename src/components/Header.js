@@ -9,7 +9,7 @@ class Header extends Component {
 
 
   render() {
-    console.log(this.props);
+    console.log(this.props)
     return (
       <div>
         <h5 className="custom-padding">{this.props.greeting}</h5>

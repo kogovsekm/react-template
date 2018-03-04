@@ -27,9 +27,9 @@ class App extends Component {
               greeting={this.state.greeting} 
               changeGreeting={this.changeGreeting.bind(this)}
             /> 
-              <div className="custom-padding">
+              <div>
                 <p>If you are seeng this, then 
-                  the body of the app is being rendered correctly. Feel free to start hacking around!
+                  the body of the app is being rendered correctly!
                 </p>
               </div>
           <Footer />
