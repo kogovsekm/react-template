@@ -7,7 +7,6 @@ class Header extends Component {
     this.props.changeGreeting(greeting);
   }
 
-
   render() {
     console.log(this.props)
     return (
